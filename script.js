@@ -1,6 +1,6 @@
 // /*
 // CURSO PRACTICO DE JAVASCRIPT
-// 1. QUE EES UNA VARIABLE, son espacios en memoria para guardar datos informacion dependiendo lod tipos y estructura de datos.
+// 1. QUE EES UNA VARIABLE, son espacios en memoria para guardar datos informacion dependiendo los tipos y estructura de datos.
 // // 2. DIREFENCIA ENTRE DECLARAR Y INICIALIZAR? 
 // // */ 
 // // let nombre ='limberAP' // esto es declarar
@@ -18,31 +18,32 @@
 // // ahorro = number 
 // // deudas = number
 // // */
-// // let suti = 'limfertgggh';
-// // let lastname = 'alanoca plata';
-// // let username = 'limfeth'
-// // let edad = 24;
-// // let email = 'limberth@gmail.com';
-// // let esMayorDeEdad = true;
-// // let ahorro = 5000;
-// // let deudas = 100;
+// let suti = 'limferth';
+// let lastname = 'alanoca plata';
+// let username = 'limfeth'
+// let edad = 24;
+// let email = 'limberth@gmail.com';
+// let esMayorDeEdad = true;
+// let ahorro = 5000;
+// let deudas = 100;
 
-// // let nombreCompleto = suti +' '+ lastname;
-// // console.log(nombreCompleto);
-// // let dineroReal = ahorro - deudas + ' Bolivianos';
-// // console.log(dineroReal);
+// let nombreCompleto = suti +' '+ lastname;
+// console.log(nombreCompleto);
+// let dineroReal = ahorro - deudas + ' Bolivianos';
+// console.log(dineroReal);
 // // /*
 // FUNCIONES
-// 1. las funciones son la forma que encapsulamos bloques de codigos para en un fututo proximo ejecutarlos.
+// 1. las funciones son la forma que encapsulamos bloques de codigos para reutilizarlos en un fututo proximo ejecutarlos.
 // function completeName(parametro1, parametro2) {
 //     return parametro1 + ' ' + parametro2
 // }
-// */
+
 function completeName(suti, lastname) {
     return suti + ' ' + lastname
 }
-completeName('limber', 'Fernandez')     
-console.log(completeName);
+
+// completeName('limber', 'Fernandez')     
+// console.log(completeName);
 
 // cuadno me sirve usar funciones
 /*
