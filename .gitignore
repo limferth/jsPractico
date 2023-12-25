@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,visualstudiocode,node
+# Created by https://www.toptal.com/developers/gitignore/api/macos,linux,windows,visualstudiocode,node
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,windows,visualstudiocode,node
 
 ### Linux ###
 *~
@@ -190,7 +190,7 @@ dist
 .svelte-kit
 
 ### VisualStudioCode ###
-.vscode/*
+.vscode
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -234,4 +234,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,node
+# End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,visualstudiocode,node
